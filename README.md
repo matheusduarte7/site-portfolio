@@ -1,2 +1,2 @@
 # site-portfolio
-Esse é um projeto de portfolio com HTML e Javascript
+Esse é um projeto de portfolio com HTML, CSS e Javascript
